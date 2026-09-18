@@ -13,7 +13,7 @@ def train_model(X, y, seed=seed):
         learning_rate=0.5,
         n_estimators=500,
         max_depth=1000,
-        subsample=2,
+        subsample=1,
         min_samples_leaf=5,
         random_state=seed
     )
