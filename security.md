@@ -1,4 +1,4 @@
-Intended Users of Code and Repo
+Intended Users of Code and Repo:
 The code and data for this repo is strictly for academic use for CSE 3000: Contemporary Issues in Computer Science and Engineering.
 The code and data for assignments are on this repo, and will be used for submitting homework and as examples for working with Jupyter notebooks.
 The intended users are myself and my professor.
