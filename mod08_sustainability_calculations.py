@@ -10,7 +10,8 @@ def compute_energy_kwh(jobs_df, power_per_core_kw=POWER_PER_CORE_KW):
     df = jobs_df.copy()
     df["energy_kwh"] = ( 
         # put energy calculation here
-
+        # energy = (hours) * (cpu_cores) * power_per_core_kw
+        [row["runtime_hours"] * row["cpu_cores"] * power_per_core_kw for i, row in df.iterrows()]
     )
     return df
 
