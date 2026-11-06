@@ -1,3 +1,14 @@
+# Personal Ethics Statement
+In our modern era, we are witnessing fast development of AI and new technology. AI is quickly getting integrated into everyday life, especially in frequently-used software. It is important to understand the environmental, social, and educational impacts of this rapidly growing AI use. I will not use other peoples' work to train a large language model without permission, and under no circumstances will I utilize generative AI and claim its output is entirely my own work. People have worked endlessly learning complex concepts and perfecting difficult skills; taking away from this feels disrespectful. I will always think about the consequences of my actions when it comes to AI, and I will treat it as a last resort to a problem. Before turning to AI, I will consult sources created by humans to gather an idea of how to solve things appropriately. 
+
+
+
+
+
+
+
+
+
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
